@@ -2,7 +2,7 @@
 
 meu nome é camille santos 
 
--estou estudando na alura 
+-estou estudando na [alura](https://www.alura.com)
 -estou me desenvlvendo na linguagem javascript
 -ultlizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
